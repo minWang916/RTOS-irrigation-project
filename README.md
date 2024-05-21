@@ -7,5 +7,5 @@ This is the Readme.md of this project. Here you can find 5 files
 
 Put all of these 5 files into the folder of the STM32 project and run on Proteus.
 
-#You can also find the video demo by this [Link](https://drive.google.com/file/d/1Ecp7xCNkGOGHgegG1DEg5eeTWEG0PU7v/view)
+
 
